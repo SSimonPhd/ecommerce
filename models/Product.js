@@ -49,3 +49,4 @@ Product.init(
 );
 
 module.exports = Product;
+
