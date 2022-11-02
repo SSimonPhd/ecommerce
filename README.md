@@ -14,7 +14,7 @@ Build the back end for an e-commerce site. Use Express.js API and configure it t
 
 - URL to Video Demo
 
-Coming soon!
+https://drive.google.com/file/d/1rNdRbMqYbUX-l_5reoWRIuEwJwyfggv4/view
 
 - URL to GitHub Repo
 
