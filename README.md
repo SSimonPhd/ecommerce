@@ -1,4 +1,4 @@
-# E-commerce back end TEST
+# E-commerce back end
 
 Build the back end for an e-commerce site. Use Express.js API and configure it to use Sequelize to interact with a MySQL database.
 
