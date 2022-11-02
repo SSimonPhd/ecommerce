@@ -53,7 +53,7 @@ In Insomnia Core, the user tests “DELETE Category by ID,” “CREATE Category
 Your walkthrough video should also show the POST, PUT, and DELETE routes for products and tags being tested in Insomnia Core.
 
 ## Getting Started
-You’ll need to use the MySQL2Links to an external site. and SequelizeLinks to an external site. packages to connect your Express.js API to a MySQL database and the dotenv packageLinks to an external site. to use environment variables to store sensitive data, like your MySQL username, password, and database name.
+You’ll need to use the MySQL2 and Sequelize packages to connect your Express.js API to a MySQL database and the dotenv package to use environment variables to store sensitive data, like your MySQL username, password, and database name.
 
 Use the schema.sql file in the db folder to create your database using MySQL shell commands. Use environment variables to store sensitive data, like your MySQL username, password, and database name.
 
@@ -224,9 +224,9 @@ The walkthrough video must demonstrate POST, PUT, and DELETE routes for categori
 ## Technical Acceptance Criteria: 40%
 Satisfies all of the preceding acceptance criteria plus the following:
 
-Uses the MySQL2Links to an external site. and SequelizeLinks to an external site. packages to connect to a MySQL database.
+Uses the MySQL2 and Sequelize packages to connect to a MySQL database.
 
-Uses the dotenv packageLinks to an external site. to use environment variables to store sensitive data, like a user’s MySQL username, password, and database name.
+Uses the dotenv package to use environment variables to store sensitive data, like a user’s MySQL username, password, and database name.
 
 Syncs Sequelize models to a MySQL database on the server start.
 
